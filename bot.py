@@ -24,8 +24,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuración desde variables de entorno
-API_ID = int(os.getenv("API_ID", 0))
-API_HASH = os.getenv("API_HASH", "")
+API_ID = int(os.getenv("API_ID", 14681595))
+API_HASH = os.getenv("API_HASH", "a86730aab5c59953c424abb4396d32d5")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 SESSION_STRING = os.getenv("SESSION_STRING", "")
 
