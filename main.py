@@ -26,7 +26,7 @@ logger = logging.getLogger(__name__)
 # Configuración desde variables de entorno
 API_ID = int(os.getenv("API_ID", 14681595))
 API_HASH = os.getenv("API_HASH", "a86730aab5c59953c424abb4396d32d5")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "7486499541:AAEouB0D_NwkrxC81L-7RE99jO9oTZCCcfo")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7486499541:AAEbJ2R_c39_eWX3QwGIdMQEasOC01F-cg0")
 SESSION_STRING = os.getenv("SESSION_STRING", "")
 
 # Inicializar cliente y manager
