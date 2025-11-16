@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Bot de elegram con generador de sesiones string integrado
+Bot de Telegram con generador de sesiones string integrado
 Sistema profesional para despliegue en Render
 """
 
