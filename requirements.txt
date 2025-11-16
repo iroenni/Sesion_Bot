@@ -1,2 +1,5 @@
-pyrogram>=2.0.0
-tgcrypto>=1.2.0
+tgcrypto
+pyrogram
+flask
+gunicorn==20.1.0
+psutil
